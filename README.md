@@ -1,5 +1,4 @@
 - The project aims to develop a machine learning model using scikit-learn for early detection of Adenovirus disease using individual bodily parameters.
-- Explored and compared various models, including DecisionTreeClassifier, KNN, Logistic Regression, etc.
-- Evaluated models based on accuracy, precision, and recall metrics for comprehensive performance analysis.
-- Identified the most effective model, considering a balance between overall accuracy and sensitivity to true positives.
+- Explored, compared and evaluated various algorithms based on accuracy, precision, and recall metrics for comprehensive performance analysis.
+- Identified the most effective algorithm: Random Forest classifier, and with feature engineering and data preprocessing techniques achieved an overall accuracy of 94.3882%
 - The project contributes to improved decision-making in healthcare.
